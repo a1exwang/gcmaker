@@ -1,0 +1,20 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    fftw3 (0.3)
+      narray
+    json (1.8.3)
+    narray (0.6.1.1)
+    ruby-audio (1.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fftw3
+  json
+  narray
+  ruby-audio
+
+BUNDLED WITH
+   1.10.6
